@@ -20,7 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `blog`
 --
-drop database blog if exists;
+drop database blog;
 create database blog;
 use blog;
 
